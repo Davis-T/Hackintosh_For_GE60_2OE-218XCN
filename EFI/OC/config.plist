@@ -1307,11 +1307,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C025382004NGDQP1M</string>
+			<string>C02527108GUGDQPCB</string>
 			<key>ProcessorType</key>
 			<integer>1797</integer>
 			<key>ROM</key>
-			<data>lPbWEwKW</data>
+			<data>an/5imc1</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1319,9 +1319,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro11,4</string>
 			<key>SystemSerialNumber</key>
-			<string>C02QF0RWG8WN</string>
+			<string>C02Q17Z1G8WN</string>
 			<key>SystemUUID</key>
-			<string>35047FA7-6F63-4FBC-99CD-079E0DF486E5</string>
+			<string>0C3516D3-48BD-4772-9B2A-0A01808BA01F</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1363,6 +1363,12 @@
 			<integer>0</integer>
 			<key>KeySubsequentDelay</key>
 			<integer>5</integer>
+			<key>PointerDwellClickTimeout</key>
+			<integer>0</integer>
+			<key>PointerDwellDoubleClickTimeout</key>
+			<integer>0</integer>
+			<key>PointerDwellRadius</key>
+			<integer>0</integer>
 			<key>PointerPollMask</key>
 			<integer>-1</integer>
 			<key>PointerPollMin</key>
